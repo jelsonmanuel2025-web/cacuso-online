@@ -1,0 +1,6 @@
+{
+  "name": "Cacuso Online",
+  "description": "Rede comunitária segura e sustentável com privacidade por padrão, feed cronológico, troca de serviços gratuitos, marketplace regional e gestão de resíduos, criada por Jelson Pereira Manuel e Liron Kilson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
